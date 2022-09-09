@@ -1,0 +1,8 @@
+# VoidEscape by LeShroomz
+# Configuration file
+#
+
+# Worlds where void escape will happen. VoidEscape will teleport players to spawnpoint.
+worlds:
+  - "world"
+  - "hubworld"

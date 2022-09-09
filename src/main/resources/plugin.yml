@@ -1,0 +1,7 @@
+name: VoidEscape
+version: '${project.version}'
+main: me.leshroomz.voidescape.Voidescape
+api-version: 1.19
+authors: [ LeShroomz ]
+softdepend:
+  - EssentialsSpawn
